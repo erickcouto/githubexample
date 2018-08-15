@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Github Example</string>
+    <string name="screen_title_repositories">Repositories</string>
+    <string name="unknown_error">An unknown error occurred, try again later</string>
+    <string name="no_internet_error">Check your internet connection and try again</string>
+    <string name="repository_choose">Repository</string>
+    <string name="owner_choose">Owner</string>
+    <string name="choose_description">Choose if you wanna go to the repository page or owner page</string>
+    <string name="choose_title">What would you like to do?</string>
+</resources>

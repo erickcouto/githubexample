@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_padding">15dp</dimen>
+    <dimen name="progress_bar_width">60dp</dimen>
+    <dimen name="progress_bar_height">60dp</dimen>
+    <dimen name="avatar_height">60dp</dimen>
+    <dimen name="avatar_width">60dp</dimen>
+</resources>
