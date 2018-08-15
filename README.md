@@ -1,13 +1,13 @@
 # Github Example
 
 A example creating a basic app with the Github API using:
-*Kotlin;
-*MVP;
-*RX;
-*Retrofit;
-*Moshi Converter;
-*Endless Scroll with SuperRecyclerView;
-*Glide;
+* Kotlin;
+* MVP;
+* RX;
+* Retrofit;
+* Moshi Converter;
+* Endless Scroll with SuperRecyclerView;
+* Glide;
 
 ## Built With love from Brazil to World.
 
