@@ -1,6 +1,6 @@
 # Github Example
 
-A example creating a basic app using the Github API and:
+A example creating a basic Android app using the Github API and:
 * Kotlin;
 * MVP;
 * RX;
