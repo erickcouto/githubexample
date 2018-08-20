@@ -1,4 +1,4 @@
-# Github Example
+# Android Github App Example
 
 A example creating a basic Android app using the Github API and:
 * Kotlin;
